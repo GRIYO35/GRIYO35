@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Marcos
 
-<a href="https://www.linkedin.com/in/marcos-albarado-7b337820b/">
+<a href="https://www.linkedin.com/in/marcos-albarado/">
   <img align="left" alt="Marcos LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
